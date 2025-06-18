@@ -1,0 +1,11 @@
+Title-TC,Title-Eng,Genre-TC,Genre-Eng,Director-TC,Director-Eng,Studio-TC,Studio-Eng,Year
+媽的多重宇宙,Everything Everywhere All at Once,科幻,Sci-Fi,丹·關與丹尼爾·舒奈特,Daniel Kwan & Daniel Scheinert,A24,A24,2022
+沙丘,Dune,科幻,Sci-Fi,丹尼斯·維勒納夫,Denis Villeneuve,傳奇影業/華納兄弟,Legendary Pictures/Warner Bros.,2021
+貝爾法斯特,Belfast,劇情,Drama,肯尼斯·布萊納,Kenneth Branagh,焦點影業,Focus Features,2021
+貓王,Elvis,傳記,Biography,Baz Luhrmann,Baz Luhrmann,華納兄弟,Warner Bros.,2022
+捍衛戰士：獨行俠,Top Gun: Maverick,動作,Action,約瑟夫·柯金斯基,Joseph Kosinski,Skydance/派拉蒙影業,Skydance/Paramount Pictures,2022
+黑豹2：瓦干達萬歲,Black Panther: Wakanda Forever,動作,Action,瑞恩·庫格勒,Ryan Coogler,漫威影業/迪士尼,Marvel Studios/Disney,2022
+瞬息全宇宙,Tenet,科幻,Sci-Fi,克里斯多福·諾蘭,Christopher Nolan,Syncopy/華納兄弟,Syncopy/Warner Bros.,2020
+燃冬,Burning Days,劇情,Drama,艾米因·阿拉斯,Emre Kayiş,Anadolu Kültür,Anadolu Kültür,2022
+奧本海默,Oppenheimer,傳記,Biography,克里斯多福·諾蘭,Christopher Nolan,Syncopy/環球影業,Syncopy/Universal Pictures,2023
+塔爾,TÁR,劇情,Drama,陶德·菲爾德,Todd Field,焦點影業,Focus Features,2022
